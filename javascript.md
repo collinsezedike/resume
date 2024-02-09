@@ -1,24 +1,56 @@
 # Collins Ezedike-egwom
 
 ## About
---- Bio ---
+
+I enjoy poking at computers with code. I am a backend developer and I work hard.
 
 ## Education
-> Federal University of Technology, Owerri
-> B.Eng, Electronic Engineering 
-> (2021-2026)
+
+> ### Federal University of Technology, Owerri
+>
+> B.Eng, Electronic Engineering, (2021-2026)
+>
 > - Currently the Director of Protocol of my department
 
-## Projects
->##### Apollonia API — Work In Progress
-> A simple web API that allows CRUD operations.
-> I decided to teach myself NodeJs and Typescript to advance my knowledge of backend development. ● I got inspiration from theCourseraProjectNetworkto build a CRUDNode.jsandMongoDBemployee managementwebapp. ○ BuiltanExpressJsAPIserverwithendpointsthat follow RESTconventions. ○ ConnectedtheserverwithaliveMongoDBAtlas instance. ○ IntegratedtheAPIwithSwaggerdocumentation that follows OpenAPI 3.0 specifications. ○ WrittentestsformyendpointsusingMocha. ● Iplantoimplementacachingsystem,containerize the with docker anddevelopfrontendwebpagesto interact with the API. ● ThisisthelinktotheGithubrepository.
+## Experience
 
+> ### NodeJS Developer, Klosanow  
+>
+> Klosanow provides a platform for African teachers to deliver video lessons to their students without worrying about bandwidth.  
+> Stack: ExpressJs, TypeScript, MongoDB, AWS S3 Socket.io
+>
+> - Built the REST API for the MVP from scratch  
+> - Incorporated web sockets into the web API.  
+> - Unofficlally lead the backend development team
+
+## Projects
+
+> ### Apollonia API — Work In Progress
+>
+> I decided to teach myself NodeJs and Typescript to advance my knowledge of backend development. I got inspiration from the Coursera Project Network to build a CRUD Node.js and MongoDB employee management web app.  
+>
+> I have:
+>
+> - Built an ExpressJs API server with endpoints that follow REST conventions.  
+> - Connected the server with a live MongoDB Atlas instance.  
+> - Integrated the API with Swagger documentation that follows OpenAPI 3.0 specifications.  
+> - Written tests for my endpoints using Mocha.
+>
+> I plan to:  
+>
+> - Implement a caching system
+> - Containerize the with docker
+>
+> [This is a frontend application that consumes the API][Apollonia-Frontend Live Link].  
+> [This is the link to the Github repository][Apollonia-API Github Repository].  
 
 ## Interests
-- Cloud computing
+
+- Pythom Programming
 - Docker and Kubernetes
-- DevOps
-- Artificial Intelligence 
-- Machine Learning
+- Cloud Computing and DevOps
 - Data Structures and Algorithms
+- Machine Learning and Artificial Intelligence
+
+[Apollonia-API Github Repository]: https://github.com/collinsezedike/apollonia-api
+[Apollonia-Frontend Live Link]: https://collinsezedike.github.io/apollonia-frontend
