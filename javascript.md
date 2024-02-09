@@ -1,5 +1,7 @@
 # Collins Ezedike-egwom
 
+Email: [ezedikecollins@gmail.com][Email Address URL] &nbsp; &nbsp; Phone: [+2348129841904][Phone Number URL] &nbsp; &nbsp; LinkedIn: [https://www.linkedin.com/in/collinsezedike][LinkedIn Profile URL]  
+
 ## About
 
 I enjoy poking at computers with code. I am a backend developer and I work hard.
@@ -52,6 +54,10 @@ I enjoy poking at computers with code. I am a backend developer and I work hard.
 - Data Structures and Algorithms
 - Machine Learning and Artificial Intelligence
 
-[Apollonia-API Github Repository]: https://github.com/collinsezedike/apollonia-api
-[Apollonia-Frontend Live Link]: https://collinsezedike.github.io/apollonia-frontend
+[Email Address URL]: mailto:ezedikecollins@gmail.com
+[Phone Number URL]: tel:2348129841904
+[LinkedIn Profile URL]: https://www.linkedin.com/in/collinsezedike
+
 [Apollonia-API Live Link]: http://apollonia.onrender.com/api/v1/docs
+[Apollonia-Frontend Live Link]: https://collinsezedike.github.io/apollonia-frontend
+[Apollonia-API Github Repository]: https://github.com/collinsezedike/apollonia-api
