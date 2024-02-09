@@ -25,7 +25,7 @@ I enjoy poking at computers with code. I am a backend developer and I work hard.
 
 ## Projects
 
-> ### Apollonia API — Work In Progress
+> ### [Apollonia API][Apollonia-API Live Link] — Work In Progress
 >
 > I decided to teach myself NodeJs and Typescript to advance my knowledge of backend development. I got inspiration from the Coursera Project Network to build a CRUD Node.js and MongoDB employee management web app.  
 >
@@ -54,3 +54,4 @@ I enjoy poking at computers with code. I am a backend developer and I work hard.
 
 [Apollonia-API Github Repository]: https://github.com/collinsezedike/apollonia-api
 [Apollonia-Frontend Live Link]: https://collinsezedike.github.io/apollonia-frontend
+[Apollonia-API Live Link]: http://apollonia.onrender.com/api/v1/docs
