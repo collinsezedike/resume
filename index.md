@@ -1,6 +1,6 @@
 # Collins Ezedike-egwom
 
-Email: [ezedikecollins@gmail.com][Email Address URL] &nbsp; &nbsp; Phone: [+2348129841904][Phone Number URL] &nbsp; &nbsp; LinkedIn: [https://www.linkedin.com/in/collinsezedike][LinkedIn Profile URL]  
+Email: [ezedikecollins@gmail.com][Email Address URL] &nbsp; &nbsp; &nbsp; &nbsp; Phone: [+2348129841904][Phone Number URL] &nbsp; &nbsp; &nbsp; &nbsp; LinkedIn: [https://www.linkedin.com/in/collinsezedike][LinkedIn Profile URL]  
 
 ## About
 
