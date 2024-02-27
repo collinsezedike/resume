@@ -48,7 +48,7 @@ I enjoy poking at computers with code. I am a backend developer and I work hard.
 
 ## Interests
 
-- Pythom Programming
+- Python Programming
 - Docker and Kubernetes
 - Cloud Computing and DevOps
 - Data Structures and Algorithms
